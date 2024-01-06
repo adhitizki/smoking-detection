@@ -23,6 +23,7 @@ Kedua penelitian ini memberikan pandangan yang berharga tentang penggunaan trans
 
     #### 2. Simple CNN (2 Convolutional Block dan 2 Hidden Layer):
     ![convolutional block](images/conv_block.png)
+    
     CNN digunakan untuk memproses data visual. CNN menggunakan filter untuk mengekstrak fitur penting dari gambar, dengan cara  mengurangi dimensi melalui proses konvolusi dan pooling. CNN memiliki kemampuan untuk memahami fitur secara terstruktur sehingga memungkinkan pengenalan objek dan pola secara efektif pada gambar.
 
     #### 3. Deep CNN (4 Layer Convolution Block):
@@ -30,6 +31,7 @@ Kedua penelitian ini memberikan pandangan yang berharga tentang penggunaan trans
 
     #### 4. Transfer Learning ResNet:
     ![resnet arsitektur](images/resnet.png)
+
     Transfer learning dengan ResNet digunakan untuk memanfaatkan pengetahuan yang sudah dipelajari oleh ResNet pada dataset yang lebih besar.
 
 - ### Proses Optimasi Model Neural Network
