@@ -1,0 +1,12 @@
+# initial configuration
+data_directory : ../data/smoking/
+train_directory : Training/Training/
+test_directory : Testing/Testing/
+valid_directory : Validation/Validation/
+class_label :
+  smoking : 1
+  notsmoking : 0
+
+# model parameter
+batch_size : 16
+max_epochs : 50
